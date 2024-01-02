@@ -6,7 +6,7 @@ I’m currently doing a major in Computer Science. As a budding developer, I'm s
 ### My Interests 
 💻 Machine learning<br>
 🌐 JavaScript and Web Development<br>
-📱 IOS App Developement
+📱 IOS App Developement<br>
 🏕️ Summer Camping<br>
 🏀 Basketball <br>
 🔭 Currently working on a Tiktok clone app!
